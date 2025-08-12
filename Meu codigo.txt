@@ -1,1 +1,16 @@
 Olá meu nome é David
+
+-----------------------
+
+Com base na planilha, apresente soluções para problemas que apresentarei abaixo.
+
+1. Quais os 3 clientes com mais pedidos, com base na coluna QTD
+2. Qual a quantidade total de pedidos por cliente com base na coluna QTD
+3. Qual o percentual de pedidos por cliente com base na coluna QT
+4. Qual a quantidade e percentual da coluna Produto
+5. Para entregar todos os pedidos no prazo com uma média de 10 entregas por dia, quantos dias levaremos para finalizar. Considere que entre mais 5 pedidos por dia.
+6. Para entregar todos os pedidos no prazo com uma média de 10 entregas por dia, quantos dias levaremos para finalizar. Considere que entre mais 7 pedidos por dia.
+7. Para entregar todos os pedidos no prazo com uma média de 13 entregas por dia, quantos dias levaremos para finalizar. Considere que entre mais 5 pedidos por dia.
+8. Para entregar todos os pedidos no prazo com uma média de 13 entregas por dia, quantos dias levaremos para finalizar. Considere que entre mais 7 pedidos por dia.
+9. Qual a proporcionalidade de pedidos com base na coluna QTD
+10. Apresente pelo menos 3 soluções para entregar todos os pedidos no menor prazo.
